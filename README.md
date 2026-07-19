@@ -1,6 +1,6 @@
 # SORTING ALGORITHMS VISUALISER    
 
-## Overview
+## Overview 
 
 "Sorting Algorithms Visualiser" is an interactive tool that visually demonstrates various sorting algorithms, allowing users to see how they work in real time.
 
